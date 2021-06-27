@@ -12,7 +12,7 @@ preferred_rankings_men = {
 preferred_rankings_women = {
     'lizzy': ['ryan', 'blake', 'josh', 'connor'],
     'sarah': ['ryan', 'blake', 'connor', 'josh'],
-    'zoey': ['sarah', 'connor', 'ryan', 'blake'],
+    'zoey': ['josh', 'connor', 'ryan', 'blake'],
     'daniella': ['ryan', 'josh', 'connor', 'blake']
 }
 
